@@ -4,7 +4,7 @@ Esse projeto foi criado para desenvolvimento de habilidades front-end utilizando
 
 ## Dependencias
 
-In the project directory, you can run:
+Na pasta do projeto você pode executar:
 
 ### `yarn add styled-components`
 
