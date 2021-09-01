@@ -8,5 +8,5 @@ Na pasta do projeto você pode executar:
 
 ### `yarn add styled-components`
 
-Pode utilizar como opção o npm, com o seguinte comando: `npm install @types/styled-components`
+Pode utilizar como opção o npm, com o seguinte comando: `npm install styled-components`
 
